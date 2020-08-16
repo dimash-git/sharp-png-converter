@@ -3,4 +3,5 @@ Moreover, you can change your output file extension manually to whatever you wan
 
 Used modules:
 Sharp - High performance Node.js image processing\
-<img width="280" height="auto" src="https://cdn.jsdelivr.net/gh/lovell/sharp@master/docs/image/sharp-logo.svg">
+
+<img width="200" height="auto" src="https://cdn.jsdelivr.net/gh/lovell/sharp@master/docs/image/sharp-logo.svg">
