@@ -1,9 +1,9 @@
-# Node.js Png Converter 
+# Png Converter 
 
-This plugin helps to convert any image extension (.webp, .jpg, .svg etc) to .png file. <br>
-Moreover, you can change your output file extension manually to whatever you want.
+Node.js script that converts any image extension (.webp, .jpg, .svg etc) to .png file. <br>
+Output file extension can be manually changed to whatever you want.
 
-Used modules:
+Used library:
 Sharp - High performance Node.js image processing <br>
 Link: [https://sharp.pixelplumbing.com/](https://sharp.pixelplumbing.com/)
 
